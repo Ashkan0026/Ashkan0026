@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Ashkan0026
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in back-end developing and software engineering
+- 🌱 I’m currently learning golang network concepts and python
+- 💞️ I’m looking to collaborate on back-end projects that are coded in golang and node js
+- 📫 How to reach me https://github.com/AShkan0026
 
-<!---
-Ashkan0026/Ashkan0026 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
